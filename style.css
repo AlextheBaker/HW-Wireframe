@@ -72,6 +72,7 @@ body{
     border: 10px;
 }
 .footerbox {
+	display: inline-block;
 	text-align: center;
 	clear: both;
     background-color: #ebebeb;
